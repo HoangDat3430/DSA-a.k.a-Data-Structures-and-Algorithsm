@@ -1,12 +1,12 @@
-### DSA-a.k.a-Data-Structures-and-Algorithsm
-# 3 Assignments in DSA course
-## Assignment 1
-# 1.1 Assignment’s outcome:
+# DSA-a.k.a-Data-Structures-and-Algorithsm
+### 3 Assignments in DSA course
+# Assignment 1
+## 1.1 Assignment’s outcome:
   After completing this assignment, students review and make good use of:<br>
 • Designing and using recursion<br>
 • Object Oriented Programming (OOP)<br>
 • List data structures<br>
-# 1.2 Introduction
+## 1.2 Introduction
   - Symbol table is a crucial data structure, made and maintained by compilers to trace semantics
 of identifiers (e.g information about name, type, scope, e.t.c). <br>
   - Among the stages that the compiler takes to convert source code into executable code,
