@@ -33,4 +33,6 @@ make sure to achieve these two requirements:<br>
 4. Students are required to design and use their data stuctures based on the acknowledged
 list data structures.<br>
 5. Students must release all dynamically allocated memory when the program ends.<br>
-
+## Result:
+### In this assignment I got 93/100 testcase passed
+![](https://www.linkpicture.com/q/Result_1.png)
